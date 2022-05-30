@@ -1,0 +1,5 @@
+First skill - git bash
+Second skill - github
+Third skill - mobile testing
+Fourth skill - create test documents
+Fifth skill - API testing
